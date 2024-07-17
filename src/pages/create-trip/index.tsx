@@ -112,7 +112,7 @@ export function CreateTripPage() {
 
         const { tripId } = await response.data
 
-        navigate(`/trips/${tripId}`)
+        navigate(`/plann-er-web/trips/${tripId}`)
     }
 
     return (
