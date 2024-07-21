@@ -41,7 +41,7 @@ O projeto e uma aplicação, que tem como objetivo ajudar a gerenciar as viagens
 
 A aplicação foi criada em um evento da 🔗[rocketSeat](https://app.rocketseat.com.br/events/nlw-unite/react/aula-01-react) chamado _nlw_, que ja teve 16 edições, contando com essa.
 
-Para acessar o repositório onde se encontra o backend da aplicação clique aqui 🔗[plann-er-api](https://github.com/matheus369k/plann-er-web), caso queira testa-la.
+Para acessar o repositório onde se encontra o backend da aplicação clique aqui 🔗[plann-er-api](https://github.com/matheus369k/plann-er-api), caso queira testa-la.
 
 ## 🚀Aprendizado
 
