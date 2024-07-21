@@ -1,31 +1,58 @@
-# React + TypeScript + Vite
+<h1 align='center'>💻Plann.er - Web</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align='center'>
 
-Currently, two official plugins are available:
+  [Ferramentas](#ferramentas)
+  |
+  [Projeto](#projeto)
+  |
+  [Aprendizado](#aprendizado)
+  |
+  [Designer](#designer)
+  |
+  [Licença](#licença)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
 
-## Expanding the ESLint configuration
+<div align='center'>
+  <img src='https://img.shields.io/github/license/matheus369k/plann-er-web.svg' />
+</div>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<div align='center'>
+  <img src='.github/preview.png' />
+</div>
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## 🧰Ferramentas
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# plann-er-web
+As principais ferramentas, que foram usadas para desenvolver o projeto do evento nlw 16  foram:
+
+- React + Vite
+- TypeScript
+- TailwindCSS
+- React-router
+- axios
+- date-fns
+  
+  
+## 💻Projeto
+
+O projeto e uma aplicação, que tem como objetivo ajudar a gerenciar as viagens do usuário, em grupo. 
+
+A aplicação foi criada em um evento da 🔗[rocketSeat](https://app.rocketseat.com.br/events/nlw-unite/react/aula-01-react) chamado _nlw_, que ja teve 16 edições, contando com essa.
+
+Para acessar o repositório onde se encontra o backend da aplicação clique aqui 🔗[plann-er-api](https://github.com/matheus369k/plann-er-web), caso queira testa-la.
+
+## 🚀Aprendizado
+
+Durante o desenvolvimento do site, pude aprender sobre tailwind variants, que e uma forma de criar estilos com pequenas variações, assim como o nome sugere, dependendo da propriedade passada, podendo passar estilos padrões que serão inseridos se nada for informado e estilos estáticos que sempre serão usado no componente.
+
+## 🎨Designer
+
+O designer do projeto disponibilizado durante o evento.
+
+o designer da aplicação esta aqui 🔗[Figma](https://www.figma.com/design/VO7bExen5rG8Ve15ptiL1d/NLW-Journey-•-Planejador-de-viagem-(Community)?node-id=915-685&t=wx0FcZqBktEobZ9R-0).
+
+## 📜Licença
+
+Para o projeto fora usado a licença 🔗[MIT](/LICENSE.txt).
